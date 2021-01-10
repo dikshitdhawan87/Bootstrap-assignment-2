@@ -1,0 +1,88 @@
+
+.myContainer {
+  background-color:#F6F7F9;
+  margin-top: 2%;
+
+}
+.logo{
+  height: 80px;
+  margin-left: 50%;
+}
+.nav-item-spacer{
+  margin: 5px;
+  font-weight: bold;
+}
+.highlighter:hover{
+  background-color: blue;
+  transition: 1s;
+}
+.carousel-indicators > li {
+  border-radius: 100%;
+  width: 10px;
+  height: 10px;
+}
+.right-indicators{
+  margin-left: 75%;
+}
+.blue-background{
+  background-color: #18A4D9;
+}
+.dark-slate-background{
+  background-color: #2E3E4E;
+}
+.white-background{
+  background-color: white;
+}
+.orange-background{
+  background-color: orangered;
+}
+.no-padding{
+  padding: 0;
+}
+.text-color-orange{
+  color: #B4776A;
+}
+.text-color-slategrey{
+  color:#BEBEBE;
+}
+.text-color-darkslategray{
+  color: #2E3E4E;
+}
+.text-color-blue{
+  color: #18A4D9;
+}
+.large-font-size{
+  font-size: large
+}
+.larger-font-size{
+  font-size: larger
+}
+.white-horizontal-line{
+  border: 1px solid white;
+}
+.gray-horizontal-line{
+  border: 1px solid gray;
+}
+.spacer-vertical{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.spacer-vertical-large{
+  padding-top: 25px;
+  padding-bottom:25px ;
+}
+.overlap-top{
+  margin-top: -12px;
+}
+.fixed-width-10rem{
+  width: 10rem;
+}
+.fixed-width-12rem{
+  width: 12rem;
+}
+.fixed-width-15rem{
+  width: 15rem;
+}
+.no-margin{
+  margin: 0px;
+}
